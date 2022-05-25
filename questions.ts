@@ -1,10 +1,10 @@
 export let questions = [
   {
-    question : 'How many championships did Michael Jordan bring the Chicago Bulls to during his career?',
-    answer : '6',
+    question : ' What was the first Pixar movie??',
+    answer : 'Toy Story',
     distractors : [
-      '3',
-      '4','7'
+      'Cars',
+      'Monsters Inc.','Finding Nemo'
     ]
   },
   {
