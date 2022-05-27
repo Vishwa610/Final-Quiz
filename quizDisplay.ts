@@ -13,7 +13,7 @@ export function changeQuestion (question: Question) {
   container.innerHTML = `
   <div class="question-container">
     <div class="question">
-      ${question.question}
+      ${question.question} 
     </div>
     <div class="answers">      
     </div>

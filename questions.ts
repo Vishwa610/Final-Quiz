@@ -8,38 +8,41 @@ export let questions = [
     ]
   },
   {
-    question : 'True or False: Michael Jordan and The Bulls won every championship game that they played throughout his time with the team.',
-    answer : 'True',
+    question : `What movie is this clip from? 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ThMwHKfzz1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+    answer : 'Princess and the Frog',
     distractors : [
-      'False'
+      'Cinderella',
+      'Aladdin',
+      'Brave',
     ]
   },
   {
-    question : 'Which school did Michael Jordan attend and practice basketball at during his college years?',
-    answer : 'The University of North Carolina',
+    question : 'Who was the costume designer for the Incredible family in the film "The Incredibles"',
+    answer : 'Edna Mode',
     distractors : [
-      'Loyola University:Chicago',
-      'University of Kentucky',
-      'Duke University',
+      'Ursula',
+      'Elastagirl',
+      'Yzma',
       
     ]
   },
   {
-    question : 'In what year did Michael Jordan get drafted to the National Basketball Association?',
-    answer : '1981',
+    question : 'What are the names of Hades minons in Hercules?',
+    answer : 'Pain and Panic',
     distractors : [
-      '1997',
-      '1984',
-      '2000'
+      'Dumb and Dumber',
+      'Mowgli and Baloo',
+      'Timon and Pumbaa'
     ]
   },
   {
-    question : 'Which of the following was NOT a nickname that Jordan was referred to as?',
-    answer : 'Black Mamba',
+    question : 'What highschool did Troy and Gabriella attend iin High School Musical?',
+    answer : 'East High School',
     distractors : [
-      'Black Cat',
-      'MJ',
-      'Air Jordan'
+      'Sierra Canyon High School',
+      'Merryweather High School',
+      'Innovation Academy Charter School'
     ]
   }
 ]
